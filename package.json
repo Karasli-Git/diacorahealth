@@ -1,0 +1,9 @@
+{
+  "name": "diacorahealth",
+  "version": "1.0.0",
+  "description": "Diacora Health - Diabetes & Hypertension Management",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
